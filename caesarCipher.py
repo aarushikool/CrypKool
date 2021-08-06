@@ -32,7 +32,7 @@ def caesar_decrypt(cipher_text):
     
     return plain_text
 
-encrypted = caesar_encrypt('This is CrypKool')
+encrypted = caesar_encrypt('On offering to help the blind man the man who then stole his car had not at that precise moment had any evil intention quite the contrary what he did was nothing more than obey those feelings of generosity and altruism which as everyone knows are the two best traits of human nature and to be found in much more hardened criminals than this one a simple car thief without any hope of advancing in his profession exploited by the real owners of this enterprise for it is they who take advantage of the needs of the poor')
 print(encrypted)
-decrypted= caesar_decrypt('YMNXENXEHWCUPTTQ')
+decrypted= caesar_decrypt('TSETKKJWNSLEYTEMJQUEYMJEGQNSIERFSEYMJERFSEAMTEYMJSEXYTQJEMNXEHFWEMFIESTYEFYEYMFYEUWJHNXJERTRJSYEMFIEFSCEJ NQENSYJSYNTSEVZNYJEYMJEHTSYWFWCEAMFYEMJEINIEAFXESTYMNSLERTWJEYMFSETGJCEYMTXJEKJJQNSLXETKELJSJWTXNYCEFSIEFQYWZNXREAMNHMEFXEJ JWCTSJEPSTAXEFWJEYMJEYATEGJXYEYWFNYXETKEMZRFSESFYZWJEFSIEYTEGJEKTZSIENSERZHMERTWJEMFWIJSJIEHWNRNSFQXEYMFSEYMNXETSJEFEXNRUQJEHFWEYMNJKEANYMTZYEFSCEMTUJETKEFI FSHNSLENSEMNXEUWTKJXXNTSEJBUQTNYJIEGCEYMJEWJFQETASJWXETKEYMNXEJSYJWUWNXJEKTWENYENXEYMJCEAMTEYFPJEFI FSYFLJETKEYMJESJJIXETKEYMJEUTTW')
 print(decrypted)
